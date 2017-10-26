@@ -34,7 +34,7 @@
 
 /* Begin PBXFileReference section */
 		134814201AA4EA6300B7C361 /* libRNBackgroundTimer.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRNBackgroundTimer.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		641926921ECB4257009CF731 /* libRNBackgroundTimer.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRNBackgroundTimer.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		641926921ECB4257009CF731 /* libRNBackgroundTimer.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libRNBackgroundTimer.a; path = "/Users/rafaelnascimento/Documents/React-native/Libraries/possible:react-native-background-timer/ios/build/Debug-appletvos/libRNBackgroundTimer.a"; sourceTree = "<absolute>"; };
 		B3E7B5881CC2AC0600A0062D /* RNBackgroundTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNBackgroundTimer.h; sourceTree = "<group>"; };
 		B3E7B5891CC2AC0600A0062D /* RNBackgroundTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNBackgroundTimer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -71,7 +71,6 @@
 				B3E7B5881CC2AC0600A0062D /* RNBackgroundTimer.h */,
 				B3E7B5891CC2AC0600A0062D /* RNBackgroundTimer.m */,
 				134814211AA4EA7D00B7C361 /* Products */,
-				641926921ECB4257009CF731 /* libRNBackgroundTimer.a */,
 			);
 			sourceTree = "<group>";
 		};
@@ -340,6 +339,7 @@
 				641926991ECB4257009CF731 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
